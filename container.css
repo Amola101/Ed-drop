@@ -1,0 +1,33 @@
+.items{
+    width: 300px;
+    background: #f0f1fa;
+    margin: 20px;
+    border-radius: 15px;
+    box-shadow: 4px 4px #9093ad;
+}
+
+.container img{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.btn{
+    margin: 15px 0;
+    padding: 10px 20px;
+}
+
+.items > img {
+	max-height: 370px;
+	user-select: none;
+}
+
+.items > .geobin-img {
+	margin: 0;
+	width: 97.6%;
+}
+
+h2 {
+	text-align: center;
+	margin: 50px 0;
+    color: #000;
+}
